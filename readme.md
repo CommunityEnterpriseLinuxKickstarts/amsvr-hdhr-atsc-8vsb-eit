@@ -1,5 +1,8 @@
+If you were looking for the shell scripting behind the liveimage project and not the whole project, check here:
+https://github.com/kelsieflynn/automythsvr-eit-stages
+
 Below is the readme from (SF, where you can download the ISOs, for now)
-*Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
+*Note: Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
 
 ***
 
