@@ -1,3 +1,9 @@
+THIS PROJECT IS DEPRECATED and NEEDS UPDATING TO 0.29.X
+
+
+
+
+
 This project uses fedora livecd-creator which you may find more info about from link below and elsewhere. https://fedoraproject.org/wiki/How_to_create_and_use_a_Live_CD
 
 and
