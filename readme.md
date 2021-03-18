@@ -3,23 +3,6 @@ THIS PROJECT IS DEPRECATED and NEEDS UPDATING TO 0.29.X
 
 
 
-
-This project uses fedora livecd-creator which you may find more info about from link below and elsewhere. https://fedoraproject.org/wiki/How_to_create_and_use_a_Live_CD
-
-and
-
-http://www.livecd.ethz.ch/build.html 
-Great Resource for basic livecd building
-
-https://img.cs.montana.edu/linux/montanalinux/
-Great examples for modification and customization.
-
-If you were looking for the shell scripting behind the liveimage project and not the whole project, check here: https://github.com/kelsieflynn/automythsvr-eit-stages
-
-Below is the readme from (SF, where you can download the ISOs, for now) *Note: Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
-
-***
-
 Welcome to Automythsvr HDHR EIT!
 ATSC OTA 8vsb Build.
 
